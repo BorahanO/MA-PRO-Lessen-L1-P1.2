@@ -1,0 +1,34 @@
+In Windows moet je er eerst voor zorgen dat je toegang
+hebt om onzichtbare bestanden en mappen in te zien. Om
+dit aan te zetten doe je het volgende:
+	
+	- Open een Windows Explorer venster.
+		(Het venster waarin je door je mappen en
+		bestanden kan bladeren. Dus NIET internet explorer...)
+	- Klik op de "Organize" of "Organiseren" knop in
+		de linker bovenhoek.
+	- Klik op "Folder and search options" of "Mappen en zoekopties".
+	- Klik op het tabje "View" of "Beeld".
+	- Je ziet nu een reeks aan opties die je aan/uit kan zetten.
+		Zoek de optie "Hidden files and folders" of "Verborgen
+		bestanden en mappen" en zet de optie op "Show hidden
+		files, folders and drives" of "Weergeef verborgen
+		bestanden, mappen en schijven".
+	- Accepteer de wijzigingen en sluit het venster.
+
+
+(Hier zijn de instructies ook te vinden:)
+
+	https://support.microsoft.com/en-us/help/14201/windows-show-hidden-files
+
+
+
+Vervolgens ga je naar de volgende locatie in jouw computer:
+
+
+	C:\Users\[JOUW_GEBRUIKERSNAAM]\AppData\Local
+
+
+Zodra jij je game draait zie je een mapje tevoorschijn
+met de naam van het Game Maker project. Hierin verschijnen
+jouw opgeslagen bestanden.

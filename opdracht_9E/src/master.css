@@ -1,0 +1,25 @@
+.custom-button {
+    -fx-background-color: rgb(128,0,0);
+    -fx-text-fill: white;
+
+    -fx-background-insets: 0 0 0 0, 0, 0, 0;
+    -fx-background-radius: 0 0 0 0, 0, 0, 0;
+    -fx-border-width: 0 0 0 0, 0, 0, 0;
+}
+
+.custom-button:hover {
+    -fx-background-color: rgba(128,0,0,0.5);
+    -fx-cursor: hand;
+}
+
+.stawph-button {
+    -fx-background-radius: 0;
+    -fx-background-color: rgb(111, 196, 92);
+    -fx-text-fill: white;
+    -fx-font-size: 20;
+}
+
+.stawph-button:hover {
+    -fx-background-color: rgba(111, 196, 92, 0.5);
+    -fx-cursor: hand;
+}
